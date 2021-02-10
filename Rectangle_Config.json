@@ -1,0 +1,90 @@
+[
+  {
+    "type": "Text",
+    "pos": [0.5, 4],
+    "color": "black",
+    "fontsize": 18,
+    "body": "FIRST",
+    "orientation": "RIGHT"
+  },
+  {
+    "type": "Text",
+    "pos": [9.75, 4],
+    "color": "black",
+    "fontsize": 18,
+    "body": "LAST",
+    "orientation": "RIGHT"
+  },
+  {
+    "type": "Rectangle",
+    "rounded": false,
+    "pos": [0.5, 4.25],
+    "size": [10, 3.75],
+    "color": "gray",
+    "border": "gray"
+  },
+  {
+    "type": "Rectangle",
+    "rounded": true,
+    "pos": [1, 4.875],
+    "size": [2, 2],
+    "color": "white",
+    "border": "gray"
+  },
+  {
+    "type": "Rectangle",
+    "rounded": true,
+    "pos": [1, 1.375],
+    "size": [2, 2],
+    "color": "gray",
+    "border": "gray"
+  },
+  {
+    "type": "Rectangle",
+    "rounded": true,
+    "pos": [3.25, 4.875],
+    "size": [2, 2],
+    "color": "white",
+    "border": "gray"
+  },
+  {
+    "type": "Rectangle",
+    "rounded": true,
+    "pos": [3.25, 1.375],
+    "size": [2, 2],
+    "color": "gray",
+    "border": "gray"
+  },
+  {
+    "type": "Rectangle",
+    "rounded": true,
+    "pos": [5.5, 4.875],
+    "size": [2, 2],
+    "color": "white",
+    "border": "gray"
+  },
+  {
+    "type": "Rectangle",
+    "rounded": true,
+    "pos": [5.5, 1.375],
+    "size": [2, 2],
+    "color": "gray",
+    "border": "gray"
+  },
+  {
+    "type": "Rectangle",
+    "rounded": true,
+    "pos": [7.75, 4.875],
+    "size": [2, 2],
+    "color": "white",
+    "border": "gray"
+  },
+  {
+    "type": "Rectangle",
+    "rounded": true,
+    "pos": [7.75, 1.375],
+    "size": [2, 2],
+    "color": "gray",
+    "border": "gray"
+  }
+]
